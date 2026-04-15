@@ -62,7 +62,8 @@ ollama pull gemma3:4b
 
 Код наведено у файлі: [text-generate.py](text-generate.py)
 
-Результат наведено у вигляді текстового файлу: [result_b_generation.txt].(result_b_generation.txt)
+Результат наведено у вигляді текстового файлу:  [result_b_generation.txt](result_b_generation.txt)
+
 
 ### Аналіз:
 
