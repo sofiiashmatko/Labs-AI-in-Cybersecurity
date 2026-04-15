@@ -16,25 +16,25 @@ ollama pull qwen3.5:0.8b
 ollama pull gemma3:4b
 
 
-### Реалізовані сценарії
 
-Запуск розроблених програм:
+
+Запуск розроблених програм наведено на рисунку:
 
 ![Рисунок](picture1.png)
 
-
+### Реалізовані сценарії
 ### а) Chat Bot
 
 Було реалізовано чат-бот, який надсилає однаковий текстовий запит до двох моделей.
 
 Код наведено у файлі: [chatbot.py](chatbot.py)
 
-### Запит: What is artificial intelligence?
+### Було зроблено запит: What is artificial intelligence?
 
 Результат наведено у вигляді текстового файлу: [result_a_chatbot.txt](result_a_chatbot.txt)
 
 
-### Аналіз:
+### Провели аналіз отриманих результатів:
 
 ### qwen3.5:0.8b
 
@@ -63,14 +63,14 @@ ollama pull gemma3:4b
 
 Було реалізовано генерацію тексту.
 
-### Запит: Write a short text about a healthy lifestyle.
+### Було зроблено запит: Write a short text about a healthy lifestyle.
 
 Код наведено у файлі: [text-generate.py](text-generate.py)
 
 Результат наведено у вигляді текстового файлу:  [result_b_generation.txt](result_b_generation.txt)
 
 
-### Аналіз:
+### Провели аналіз отриманих результатів:
 
 ### qwen3.5:0.8b
 
@@ -90,15 +90,15 @@ ollama pull gemma3:4b
 
 Відповідь більш "людяна" та стилістично природна.
 
-### Висновок: qwen3.5:0.8b краще підходить для формальних відповідей, gemma3:4b — для природної генерації тексту.
+### Висновок: qwen3.5:0.8b краще підходить для формальних відповідей, gemma3:4b - для природної генерації тексту.
 
 ### в) Multimodal Data
 
 Було виконано аналіз зображення.
 
-### Запит: Describe what is shown in this image briefly.
+### Було зроблено запит: Describe what is shown in this image briefly.
 
-### Використане зображення
+### Використане зображення:
 
 ![Рисунок](photo.jpg)
 
@@ -106,7 +106,7 @@ ollama pull gemma3:4b
 
 Результат наведено у вигляді текстового файлу:  [result_c_multimodal.txt](result_c_multimodal.txt)
 
-### Аналіз:
+### Провели аналіз отриманих результатів:
 
 ### qwen3.5:0.8b
 
