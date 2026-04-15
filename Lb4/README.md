@@ -60,9 +60,9 @@ ollama pull gemma3:4b
 
 ### Запит: Write a short text about a healthy lifestyle.
 
-Код наведено у файлі:
+Код наведено у файлі: [text-generate.py](text-generate.py)
 
-Результат наведено у вигляді текстового файлу: result_b_generation.txt
+Результат наведено у вигляді текстового файлу: [result_b_generation.txt].(result_b_generation.txt)
 
 ### Аналіз:
 
@@ -96,9 +96,9 @@ ollama pull gemma3:4b
 
 image.jpg
 
-Код наведено у файлі:
+Код наведено у файлі: [multimodal.py](multimodal.py)
 
-Результат наведено у вигляді текстового файлу: result_c_multimodal.txt
+Результат наведено у вигляді текстового файлу:  [result_c_multimodal.txt](result_c_multimodal.txt)
 
 ### Аналіз:
 
