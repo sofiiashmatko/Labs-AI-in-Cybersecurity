@@ -95,7 +95,7 @@ ollama pull gemma3:4b
 
 ### Використане зображення
 
-image.jpg
+![Рисунок](photo.jpg)
 
 Код наведено у файлі: [multimodal.py](multimodal.py)
 
