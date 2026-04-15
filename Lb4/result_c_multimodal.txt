@@ -1,0 +1,15 @@
+=== qwen3.5:0.8b ===
+In this image, two giraffes are standing close to each other in a lush, green savanna environment.
+
+*   **The Animals:** One giraffe is standing slightly behind and to the left of the other. Both have long, slender necks and distinct patterns of brown patches separated by white lines. The giraffe on the left is facing forward, while the one in the center is facing away, showing its profile.
+*   **The Setting:** They are surrounded by dense, bright green bushes and trees in the foreground and midground. Behind them rises a large, rolling hill covered in vegetation that is slightly out of focus, creating a soft backdrop. The bright, natural lighting suggests it is a sunny day.
+
+=== gemma3:4b ===
+Here's a description of what's shown in the image:
+
+**Main Subject:** The image features two majestic giraffes standing closely together. They have the characteristic long necks and patterned coats of the species. One giraffe is slightly taller than the other, and they are both reaching upwards.
+
+**Setting:** The giraffes are in a grassy savanna-like environment. The background is filled with dense, green foliage – likely trees and shrubs – that makes up a rolling hillside or small mountain range. The color of the greenery suggests a lush, tropical or subtropical climate. 
+
+**Overall Impression:** It’s a vibrant and scenic shot, capturing the beauty of African wildlife in a natural setting.
+
