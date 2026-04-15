@@ -22,7 +22,7 @@ ollama pull gemma3:4b
 
 Було реалізовано чат-бот, який надсилає однаковий текстовий запит до двох моделей.
 
-Код наведено у файлі:
+Код наведено у файлі: [chatbot.py](chatbot.py)
 
 ### Запит: What is artificial intelligence?
 
